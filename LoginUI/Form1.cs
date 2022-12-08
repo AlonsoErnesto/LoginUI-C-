@@ -10,11 +10,38 @@ using System.Windows.Forms;
 
 namespace LoginUI
 {
+
     public partial class Form1 : Form
     {
+
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button3_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            Form2 form2 = new Form2();
+
+            this.Hide();
+            form2.Show();
+            form1.Visible = false;
+        }
+
+        private void guna2ControlBox1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

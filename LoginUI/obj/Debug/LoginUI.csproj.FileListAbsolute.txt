@@ -11,3 +11,4 @@ C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.csproj.CoreCompile
 C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.csproj.CopyComplete
 C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.exe
 C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.pdb
+C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.Form2.resources
