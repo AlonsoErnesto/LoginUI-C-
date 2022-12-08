@@ -1,0 +1,13 @@
+C:\Users\ernes\source\repos\LoginUI\LoginUI\bin\Debug\LoginUI.exe.config
+C:\Users\ernes\source\repos\LoginUI\LoginUI\bin\Debug\LoginUI.exe
+C:\Users\ernes\source\repos\LoginUI\LoginUI\bin\Debug\LoginUI.pdb
+C:\Users\ernes\source\repos\LoginUI\LoginUI\bin\Debug\Guna.UI2.dll
+C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.csproj.AssemblyReference.cache
+C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.Form1.resources
+C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.Properties.Resources.resources
+C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.csproj.GenerateResource.cache
+C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.csproj.CopyComplete
+C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.exe
+C:\Users\ernes\source\repos\LoginUI\LoginUI\obj\Debug\LoginUI.pdb
